@@ -1,0 +1,5 @@
+Manuel,Martínez,12345678A,100.0,contraseña
+Javier,García,21436587A,76.2,contraseña1
+Ángel,Gómez,98765432B,1254,contraseña2
+José,Haldón,12345679C,2450.50,contraseña3
+Mateo,Lucián,99887766D,2300,contraseña4

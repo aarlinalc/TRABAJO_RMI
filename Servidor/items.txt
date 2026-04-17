@@ -1,0 +1,25 @@
+1,Televisión LG 50",Electrónica,5,399.0
+2,Televisión Sony 34",Electrónica,13,299.99
+3,Mesa de Comedor,Mueble,8,350.0
+4,Camisa Blanca,Ropa,15,25.0
+5,Cámara Digital Canon EOS,Electrónica,2,799.95
+6,Sofá de Cuero,Mueble,2,1200.0
+7,Pantalones Vaqueros Levi's,Ropa,5,50.0
+8,Portátil HP Pavilion,Electrónica,2,899.5
+9,Teléfono iPhone 13,Electrónica,3,1000.0
+10,Zapatillas Nike Air,Ropa,4,80.0
+11,Aspiradora Roomba,Electrónica,2,300.0
+12,Auriculares Sony,Electrónica,3,150.0
+13,Bicicleta de montaña Trek,Deportes,2,700.0
+14,Juego de Mesa: Monopoly,Juegos,10,30.0
+15,Colchón de Espuma Viscoelástica,Hogar,1,800.0
+16,Tabla de Surf,Deportes,2,550.0
+17,Lámpara de Pie,Hogar,4,75.25
+18,Kit de Jardinería,Hogar,2,50.0
+19,Kit de Pintura de Óleo,Arte,4,34.0
+20,Mesa de Billar Estándar,Juegos,1,220.0
+21,Álbum de Vinilos Colección 80s,Música,2,75.0
+22,Juego de Toallas de Baño,Hogar,7,40.0
+23,Set de Cocina Acero Inoxidable,Hogar,8,150.0
+24,Toldo Retráctil,Exteriores,1,500.0
+25,Reloj de pulsera Rolex Submariner,Accesorio,2,10000.0
