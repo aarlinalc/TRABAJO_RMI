@@ -1,0 +1,2 @@
+REF01,Hotel Ritz,Suite,3,150.0
+REF02,Ibis Madrid,Doble,10,60.0
