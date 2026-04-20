@@ -1,7 +1,10 @@
 import java.rmi.Remote;
 import java.rmi.RemoteException;
+import java.util.List;
 
 public interface ServicioOpiniones extends Remote {
-    void publicarOpinion(String referenciaHabitacion, String titulo, String comentario, int estrellas, String dniUsuario) throws RemoteException;
-    String[] obtenerUltimaOpinion(String referenciaHabitacion) throws RemoteException;
+
+    void publicarOpinion(Opinion op) throws RemoteException;
+
+    List<Opinion> obtenerOpiniones(String refHabitacion) throws RemoteException;
 }

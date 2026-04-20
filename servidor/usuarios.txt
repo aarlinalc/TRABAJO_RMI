@@ -1,3 +1,4 @@
 Admin,Jefe,12345678A,9999.0,admin123
 Juan,Perez,87654321B,300.0,pass123
 Aaron,Linares,20954824F,650.0,juangay(losdosh)
+Juan,Marin,49561414w,300.0,juan
